@@ -1,9 +1,0 @@
-{
-  "name": "XppTableCreator",
-  "description": "An agent that generates X++ custom table definitions, table extensions, fields, indexes, relations, and full best‑practice table structures for Dynamics 365 FO.",
-  "instructions": "instructions.md",
-  "capabilities": {
-    "chat": true,
-    "read_repo": false
-  }
-}
